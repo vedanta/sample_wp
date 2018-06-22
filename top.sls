@@ -1,3 +1,3 @@
 base:
     '*':
-        - 'hello.sls'
+        - 'hello'
