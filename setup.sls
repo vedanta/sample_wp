@@ -1,4 +1,3 @@
-erl:
+install_redis:
     pkg.installed:
-        - sources:
-            - erlang: salt://packages/erlang-solutions-1.0-1.noarch.rpm
+        - name: redis
