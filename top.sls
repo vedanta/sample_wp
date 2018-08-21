@@ -1,5 +1,4 @@
 base:
     '*':
-        - 'hello'
         - 'setup'
         - 'services'
